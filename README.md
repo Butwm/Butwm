@@ -1,6 +1,8 @@
 - 🔭 I’m currently working on VulpesNetwork
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Python
+- 📕 I’m interested in graphic design, pentesting and programming
 - 💬 My programming language: Go-Lang
+- ⚡ My experience: Linux, Go-Lang, html, css, Wix, Wordpress, RubberDucky and Graphic Design.
 
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=795996972758204426)
