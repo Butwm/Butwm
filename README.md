@@ -5,3 +5,5 @@
 - ⚡ My experience: Linux, Go-Lang, html, css, Wordpress, RubberDucky, Python, Beginner in Figma, Ruby.
 
 ![My Discord](https://lanyard.cnrad.dev/api/795996972758204426) 
+
+Don't waste your time and buy me a coffee https://ko-fi.com/butwm  
