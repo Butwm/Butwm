@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Butwm?tab=repositories](https://github.com/Butwm?tab=repositories)
 
-- 📫 How to reach me **discord - but_gg** ![My Discord](https://lanyard.cnrad.dev/api/795996972758204426?bg=252528) 
+- 📫 How to reach me **discord - but_gg** ![My Discord](https://lanyard.cnrad.dev/api/795996972758204426?bg=252528&hideStatus=true) 
 
 - ⚡ Fun fact **I dont like JS**
 
