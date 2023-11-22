@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Butwm</h1>
 <h3 align="center">Slovak</h3>
 
+<div align="center">
 - 🔭 I’m currently working on [Ae-News](https://github.com/Butwm/Ae-News)
 
 - 🌱 I’m currently learning **Ruby and JavaScript**
@@ -22,9 +23,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/butwm"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="butwm" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=butwm&show_icons=true&locale=en&layout=compact" alt="butwm" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=butwm&show_icons=true&locale=en" alt="butwm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=butwm&" alt="butwm" /></p>
+</div>
 
