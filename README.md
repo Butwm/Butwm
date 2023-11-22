@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Butwm?tab=repositories](https://github.com/Butwm?tab=repositories)
 
-- 📫 How to reach me **discord - but_gg** ![My Discord](https://lanyard.cnrad.dev/api/795996972758204426?borderRadius=80px) 
-
 - ⚡ Fun fact **I dont like JS**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=butwm&" alt="butwm" /></p>
 
+- 📫 How to reach me **discord - but_gg** ![My Discord](https://lanyard.cnrad.dev/api/795996972758204426) 
