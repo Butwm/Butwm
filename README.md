@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I dont like JS**
 
+- 📫 How to reach me **discord - but_gg**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/butwm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/butwm" height="30" width="40" /></a>
@@ -26,4 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=butwm&" alt="butwm" /></p>
 
-- 📫 How to reach me **discord - but_gg** ![My Discord](https://lanyard.cnrad.dev/api/795996972758204426) 
