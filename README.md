@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ae-News<br><br>🌱 I’m currently learning Ruby and JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/Butwm?tab=repositories<br><br>⚡ Fun fact I dont like JS<br><br>📫 How to reach me discord - but_gg or mail: alge1352@gmail.com
+🔭 I’m currently working on Ae-News<br><br>🌱 I’m currently learning Ruby and JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/Butwm?tab=repositories<br><br>⚡ Fun fact I dont like JS<br><br>📫 How to reach me discord - but_gg or mail: alge@but-gg.fun
 
 
 # 💻 Tech Stack:
