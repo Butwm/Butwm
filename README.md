@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Niusly<br><br>🌱 I’m currently learning C++ and JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/Butwm?tab=repositories<br><br>⚡ Fun fact I dont like C<br><br>📫 How to reach me discord - but_gg or mail: alge@but-gg.fun
+🔭 I’m currently working on Niusly<br><br>🌱 I’m currently learning Dart and JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/Butwm?tab=repositories<br><br>⚡ Fun fact I dont like C<br><br>📫 How to reach me discord - but_gg or mail: alge@but-gg.fun
 
 
 # 💻 Tech Stack:
