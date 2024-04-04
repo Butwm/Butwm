@@ -14,4 +14,3 @@
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/butwm) 
 
-![Discord](https://lanyard.cnrad.dev/api/795996972758204426?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Doing+Nothing+at+this+moment)
