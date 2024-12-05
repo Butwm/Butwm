@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on 📈 ApxView and 📨 **Puslar**<br><br>🌱 I’m currently learning Node.js<br><br>👨‍💻 All of my projects are available at https://github.com/Butwm?tab=repositories<br><br>⚡ Fun fact I dont like C<br><br>📫 How to reach me? discord - but_gg or mail: [butwm@butwm.space](mailto:butwm@butwm.space])
+<br>📫 How to reach me? discord - but_gg or mail: [butwm@butwm.space](mailto:butwm@butwm.space])
 
 
 # 💻 Tech Stack:
