@@ -7,7 +7,7 @@ Currently working on:
 I’m passionate about **scalable backend architecture, blockchain development, and automation**. I work with Python, Flask, and FastAPI to build robust APIs, and I integrate with Solana-based protocols for seamless on-chain interactions.  
 
 ## Tech Stack  
-Python, Flask, FastAPI, Go, PostgreSQL, MongoDB, Redis, Supabase, Solana, AWS, Cloudflare  
+Next.js, Astro.js, Python, Flask, FastAPI, Go, PostgreSQL, MongoDB, Redis, Supabase, Solana, AWS, Cloudflare and a bit of C++.
 
 ## Contact  
 - Discord: butwm  
