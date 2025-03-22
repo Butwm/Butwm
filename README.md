@@ -13,8 +13,6 @@ Next.js, Astro.js, Python, Flask, FastAPI, Go, PostgreSQL, MongoDB, Redis, Supab
 - Discord: butwm  
 - Email: [butwm@arctik.app](mailto:butwm@arctik.app)  
 
-Support my work: [Ko-fi](https://ko-fi.com/butwm)  
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Butwm&theme=dark&hide_border=true)<br/>
 
 
