@@ -1,4 +1,4 @@
-<br>📫 How to reach me? discord - but_gg or mail: [butwm@butwm.space](mailto:butwm@butwm.space])
+<br>📫 How to reach me? discord - butwm or mail: [butwm@arctik.app](mailto:butwm@arctik.app])
 
 
 # 💻 Tech Stack:
