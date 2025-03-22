@@ -15,6 +15,6 @@ Python, Flask, FastAPI, Go, PostgreSQL, MongoDB, Redis, Supabase, Solana, AWS, C
 
 Support my work: [Ko-fi](https://ko-fi.com/butwm)  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Butwm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Butwm&theme=dark&hide_border=true)<br/>
 
 
