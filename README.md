@@ -1,7 +1,7 @@
 ## About Me  
 I'm a backend developer specializing in **trading automation, DeFi, and data tracking**. I focus on building **efficient, high-performance systems** that process real-time data and execute.
 Currently working on:  
-- A **DEX trading platform** integrating AI-driven insights, automated order execution, and market tracking.  
+- Many Web3 projects. 
 - A **Flask-based dashboard** for monitoring public tenders in Slovakia, featuring real-time data scraping and advanced filtering.  
 
 I’m passionate about **scalable backend architecture, blockchain development, and automation**. I work with Python, Flask, and FastAPI to build robust APIs, and I integrate with Solana-based protocols for seamless on-chain interactions.  
