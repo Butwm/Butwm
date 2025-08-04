@@ -3,7 +3,7 @@ I'm a backend developer specializing in **trading automation, automatizations, D
 Currently working on:  
 👀
 
-I’m passionate about **scalable backend architecture, blockchain development, and automation**. I work with Next.js, Python and Rust to build robust APIs, and I integrate with Solana-based protocols for seamless on-chain interactions.  
+I’m passionate about **scalable backend architecture, blockchain development, and automation**. I work with Next.js, Python and Rust to build APIs and apps, and I integrate with Solana-based protocols on-chain interactions.  
 
 ## Tech Stack  
 Next.js, Astro.js, Python, Flask, FastAPI, Go, PostgreSQL, MongoDB, Redis, Rust, Capacitor, Supabase, AWS, Cloudflare...and a bit of C++.
