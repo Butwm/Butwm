@@ -1,5 +1,5 @@
 ## About Me  
-I'm a backend developer specializing in **trading automation, automatizations, DeFi and data tracking**. I focus on building **efficient, high-performance systems** that process real-time data and execute.
+I'm a backend developer specializing in **trading automation, automatizations, DeFi and data tracking**.
 Currently working on:  
 👀
 
