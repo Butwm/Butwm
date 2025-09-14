@@ -1,7 +1,7 @@
 ## About Me  
 I'm a backend developer specializing in **trading automation, automatizations, DeFi and data tracking**.
 Currently working on:  
-👀
+@usesoltrace
 
 I’m passionate about **scalable backend architecture, blockchain development, and automation**. I work with Next.js, Python and Rust to build APIs and apps, and I integrate with Solana-based protocols on-chain interactions.  
 
