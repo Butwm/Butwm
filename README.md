@@ -1,5 +1,5 @@
 ## About Me  
-I'm a backend developer specializing in **trading automation, automatizations, DeFi and data tracking**.
+I'm a full-stack developer specializing in **trading automation, automatizations, DeFi and data tracking**.
 Currently working on:  
 @usesoltrace
 
