@@ -1,14 +1,6 @@
-## About Me  
-I'm a full-stack developer specializing in **trading automation, automatizations, DeFi and data tracking**.
-
-I’m passionate about **scalable backend architecture, blockchain development, and automation**. I work with Next.js, Python and Rust to build APIs and apps, and I integrate with Solana-based protocols on-chain interactions.  
-
-## Tech Stack  
-Next.js, Astro.js, Python, Flask, FastAPI, Go, PostgreSQL, MongoDB, Redis, Rust, Capacitor, Supabase, AWS, Cloudflare...and a bit of C++.
-
 ## Contact  
 - Discord: @butwm  
-- Twitter: [@butwm_](https://x.com/butwm_)
+- Twitter: [@butwm_](https://x.com/btwm_)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Butwm&theme=dark&hide_border=true)<br/>
 
 
